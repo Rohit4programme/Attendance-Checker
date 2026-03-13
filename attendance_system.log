@@ -1,0 +1,27 @@
+16:48:04.852 [JavaFX Application Thread] INFO  c.a.utils.DatabaseConnection - Creating database tables...
+16:48:05.125 [JavaFX Application Thread] INFO  c.a.utils.DatabaseConnection - Default admin user created (username: admin, password: admin123)
+16:48:05.126 [JavaFX Application Thread] INFO  c.a.utils.DatabaseConnection - Database initialized successfully
+16:48:05.129 [JavaFX Application Thread] INFO  com.attendance.AttendanceSystem - Database initialized successfully
+16:49:12.738 [JavaFX Application Thread] INFO  c.a.utils.DatabaseConnection - User authenticated successfully: admin as Admin
+16:49:12.740 [JavaFX Application Thread] INFO  com.attendance.AttendanceSystem - User admin logged in as Admin
+16:49:21.122 [JavaFX Application Thread] INFO  com.attendance.ui.AdminDashboard - Backup initiated by admin: admin
+16:50:31.575 [JavaFX Application Thread] INFO  c.a.utils.DatabaseConnection - User added: Rohit Sarkar
+16:50:58.660 [JavaFX Application Thread] INFO  c.a.utils.DatabaseConnection - Class added: bca f with teacher ID: 2
+17:06:37.231 [JavaFX Application Thread] INFO  c.a.utils.DatabaseConnection - Creating database tables...
+17:06:37.236 [JavaFX Application Thread] INFO  c.a.utils.DatabaseConnection - Database initialized successfully
+17:06:37.236 [JavaFX Application Thread] INFO  com.attendance.AttendanceSystem - Database initialized successfully
+17:07:00.897 [JavaFX Application Thread] INFO  c.a.utils.DatabaseConnection - User authenticated successfully: admin as Admin
+17:07:00.898 [JavaFX Application Thread] INFO  com.attendance.AttendanceSystem - User admin logged in as Admin
+17:09:55.611 [JavaFX Application Thread] INFO  c.a.utils.DatabaseConnection - Creating database tables...
+17:09:55.617 [JavaFX Application Thread] INFO  c.a.utils.DatabaseConnection - Database initialized successfully
+17:09:55.617 [JavaFX Application Thread] INFO  com.attendance.AttendanceSystem - Database initialized successfully
+17:10:11.945 [JavaFX Application Thread] INFO  c.a.utils.DatabaseConnection - User authenticated successfully: admin as Admin
+17:10:11.946 [JavaFX Application Thread] INFO  com.attendance.AttendanceSystem - User admin logged in as Admin
+17:10:23.034 [JavaFX Application Thread] INFO  com.attendance.ui.AdminDashboard - Backup initiated by admin: admin
+17:10:47.820 [JavaFX Application Thread] INFO  c.a.utils.DatabaseConnection - User deleted: 2
+17:10:47.823 [JavaFX Application Thread] INFO  com.attendance.ui.AdminDashboard - User deleted: Rohit Sarkar
+17:10:50.861 [JavaFX Application Thread] INFO  c.a.utils.DatabaseConnection - User deleted: 2
+17:10:50.862 [JavaFX Application Thread] INFO  com.attendance.ui.AdminDashboard - User deleted: Rohit Sarkar
+17:11:25.375 [JavaFX Application Thread] INFO  c.a.utils.DatabaseConnection - Creating database tables...
+17:11:25.381 [JavaFX Application Thread] INFO  c.a.utils.DatabaseConnection - Database initialized successfully
+17:11:25.381 [JavaFX Application Thread] INFO  com.attendance.AttendanceSystem - Database initialized successfully

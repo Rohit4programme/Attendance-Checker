@@ -1,0 +1,98 @@
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+.flattened-pom.xml
+.m2/
+
+# IDE - IntelliJ
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# IDE - VS Code
+.vscode/
+*.code-workspace
+
+# IDE - NetBeans
+nbproject/
+.nb-gradle/
+
+# IDE - Eclipse
+.classpath
+.project
+.settings/
+.metadata/
+
+# Database
+attendance_system.db
+attendance_system.db-shm
+attendance_system.db-wal
+
+# Logs
+*.log
+logs/
+
+# OS Files
+.DS_Store
+Thumbs.db
+.gradle
+.gradle/
+
+# Build output
+bin/
+build/
+dist/
+
+# Test coverage
+.coverage
+htmlcov/
+
+# Package files
+*.jar
+*.zip
+*.rar
+*.7z
+
+# Compiled sources
+*.class
+*.pyc
+*.pyo
+
+# Temporary files
+*.tmp
+*.temp
+*~
+.#*
+
+# IDE plugins cache
+.cache
+.classpath.bak
+
+# Project specific
+*.jks
+*.keystore
+.env
+.env.local
+secrets.txt
+
+# Node (if using any npm dependencies in future)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Spring Boot specific (if migrating)
+.springBeans
+
+# Gradle specific (if migrating)
+.gradle
+build/
+
+# JDT-specific (Eclipse)
+.factorypath
